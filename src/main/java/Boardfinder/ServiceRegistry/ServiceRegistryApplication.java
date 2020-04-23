@@ -1,3 +1,8 @@
+
+/** 
+ * Main class for the Eureka Service Registry service
+ */
+
 package Boardfinder.ServiceRegistry;
 
 import org.springframework.boot.SpringApplication;
