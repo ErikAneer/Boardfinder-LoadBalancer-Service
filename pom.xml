@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>Boardfinder</groupId>
-	<artifactId>LoadBalancer</artifactId>
+	<artifactId>ServiceRegistry</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>LoadBalancer</name>
-	<description>Load balancer for the Boardfinder app</description>
+	<name>ServiceRegistry</name>
+	<description>Service  Registry and Load balancer service for the Boardfinder app</description>
 
 	<properties>
 		<java.version>1.8</java.version>
